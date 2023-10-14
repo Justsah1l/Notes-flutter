@@ -9,7 +9,7 @@ Firebase setup is done , just insert the required keys and thats it your app is 
 
 # UI 
 
-![Screenshot_20231014_152536](https://github.com/Justsah1l/Notes-flutter/assets/102948492/058433d9-ce51-4e76-bfdb-b6f3916ac5cf | width="50" height="50")
+![Screenshot_20231014_152536](https://github.com/Justsah1l/Notes-flutter/assets/102948492/058433d9-ce51-4e76-bfdb-b6f3916ac5cf =250x250)
 ![Screenshot_20231014_152526](https://github.com/Justsah1l/Notes-flutter/assets/102948492/f0c3e566-1138-4614-8914-7855351bff44)
 ![Screenshot_20231014_152517](https://github.com/Justsah1l/Notes-flutter/assets/102948492/b00982d0-a527-4759-927a-4441429b26bc)
 ![Screenshot_20231014_152507](https://github.com/Justsah1l/Notes-flutter/assets/102948492/b7f2c574-8eef-4fa8-a7ae-e43c91ad5fbf)
