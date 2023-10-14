@@ -1,16 +1,15 @@
-# notes
+# Notes-app-flutter
 
-A new Flutter project.
+This Flutter-based app allows students to effortlessly upload their class notes and download notes from their peers.
 
-## Getting Started
+Note Upload: Easily upload your class notes, study guides, and other educational materials in various formats, such as PDFs, images, or text.
+Note Download: Access a vast library of notes contributed by fellow students.
 
-This project is a starting point for a Flutter application.
+Firebase setup is done , just insert the required keys and thats it your app is ready to work.
 
-A few resources to get you started if this is your first Flutter project:
+# UI 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20231014_152536](https://github.com/Justsah1l/Notes-flutter/assets/102948492/058433d9-ce51-4e76-bfdb-b6f3916ac5cf)
+![Screenshot_20231014_152526](https://github.com/Justsah1l/Notes-flutter/assets/102948492/f0c3e566-1138-4614-8914-7855351bff44)
+![Screenshot_20231014_152517](https://github.com/Justsah1l/Notes-flutter/assets/102948492/b00982d0-a527-4759-927a-4441429b26bc)
+![Screenshot_20231014_152507](https://github.com/Justsah1l/Notes-flutter/assets/102948492/b7f2c574-8eef-4fa8-a7ae-e43c91ad5fbf)
